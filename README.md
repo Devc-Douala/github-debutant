@@ -6,6 +6,6 @@ Si tu es arrivé ici en suivant le tutoriel fait Ajoute ton nom ci-dessous avec 
 
  - Nom prenom - Développeur font-end / Back-end ou mobile 
  
-  -Tchuenkam martinez - Développeur font-end / Back-end
+  -Tchuenkam martinez - Développeur font-end / Back-end -
 
 
